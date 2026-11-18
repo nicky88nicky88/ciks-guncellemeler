@@ -1,5 +1,5 @@
 {
-  "son": "0.9.0",
+  "son": "0.10.0",
   "paketler": [
     {
       "onceki": "0.1.0",
@@ -72,6 +72,14 @@
       "imza": "LdVA85OrCfGPsKyMz7L+9qKnp85+aqm4o1mPMk4vPRRv9vJ5edMVzN6ETEGbO480vyptby8AjtvL4gFAkyl8DQ==",
       "tarih": "2026-11-18T23:01:07.367Z",
       "notlar": "Ana sayfada eksik devam listesi; yedek ve disk uyarıları"
+    },
+    {
+      "onceki": "0.9.0",
+      "sonraki": "0.10.0",
+      "dosya": "paketler/ciks-0.9.0-0.10.0.json.gz",
+      "sha256": "11ee2c164400519a16160362f95f071bc3967e58670c702c234aa8ad824247b5",
+      "imza": "uymrGPOD3lDRIUkryhMiyudIfFCflnoRP0ImbZrnRhAPyLQEx+3G8VxWq5wB6IKFDNxfHwcxtTHlRGYWQy0cDQ==",
+      "tarih": "2026-11-18T23:13:12.530Z"
     }
   ]
 }
