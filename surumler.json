@@ -1,5 +1,5 @@
 {
-  "son": "0.4.0",
+  "son": "0.5.0",
   "paketler": [
     {
       "onceki": "0.1.0",
@@ -27,6 +27,15 @@
       "imza": "viKPLwg4ODEs1REgamPFvfMD1FhGGwqkd9Yu/Vx18HEJIdSbw88YfRcXVt/Sl/uaXnyTNX4vHjJbS/HpLrcQDg==",
       "tarih": "2026-11-18T22:22:47.271Z",
       "notlar": "Yedek ve güncelleme ekranı, otomatik günlük yedek, daha güvenli güncelleme"
+    },
+    {
+      "onceki": "0.4.0",
+      "sonraki": "0.5.0",
+      "dosya": "paketler/ciks-0.4.0-0.5.0.json.gz",
+      "sha256": "2bf18c0014734f6ed1c9aad2a3512c03939588fe70969ec85d9f64d227f548ae",
+      "imza": "nI6vPzpUjt1He2+UFW0o02bgiBi5hurPNALc5RKlainxOHGPzYwzXY/m6GKXAGqSAjAWceI1uhHGhHdXrYucDQ==",
+      "tarih": "2026-11-18T22:31:14.284Z",
+      "notlar": "Şirket logosu, belgelerin tamamını indirme, yedeklemede düzeltmeler"
     }
   ]
 }
