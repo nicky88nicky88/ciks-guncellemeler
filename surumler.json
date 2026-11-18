@@ -1,5 +1,5 @@
 {
-  "son": "0.2.0",
+  "son": "0.3.0",
   "paketler": [
     {
       "onceki": "0.1.0",
@@ -9,6 +9,15 @@
       "imza": "EkBagJ+aXHyUN34SXPOd7y/PoOpSDul68E/AnVBaQFT+lm4NkpAPxUTyJuzhKfLb9EMDuMamVpevHw7d5xWvCw==",
       "tarih": "2026-11-18T17:32:20.715Z",
       "notlar": "Çalışma izni, Rapor/İzin, Görevler, Devam & imza, Faturalar, Avans, Maaş ve Asgari ücret ekranları"
+    },
+    {
+      "onceki": "0.2.0",
+      "sonraki": "0.3.0",
+      "dosya": "paketler/ciks-0.2.0-0.3.0.json.gz",
+      "sha256": "5ff0a4ca60b156d3f9f3f2967e0b46a952093b8d1e9d89c88aa8e1118808eccf",
+      "imza": "LSzUYcu9ZhyD//oAuP6cHXNX/sLV0jXHlF7QdLjgU+7RWCsolnpF+sTTOlIJo558cn0MhppdLOTlDLIptjQ0AQ==",
+      "tarih": "2026-11-18T19:52:10.117Z",
+      "notlar": "Belge indirme (tek tek ve ZIP), son giriş saati, giriş kayıtları"
     }
   ]
 }
