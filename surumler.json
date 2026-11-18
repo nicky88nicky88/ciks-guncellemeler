@@ -1,5 +1,5 @@
 {
-  "son": "0.3.0",
+  "son": "0.4.0",
   "paketler": [
     {
       "onceki": "0.1.0",
@@ -18,6 +18,15 @@
       "imza": "LSzUYcu9ZhyD//oAuP6cHXNX/sLV0jXHlF7QdLjgU+7RWCsolnpF+sTTOlIJo558cn0MhppdLOTlDLIptjQ0AQ==",
       "tarih": "2026-11-18T19:52:10.117Z",
       "notlar": "Belge indirme (tek tek ve ZIP), son giriş saati, giriş kayıtları"
+    },
+    {
+      "onceki": "0.3.0",
+      "sonraki": "0.4.0",
+      "dosya": "paketler/ciks-0.3.0-0.4.0.json.gz",
+      "sha256": "3885580e8bc5a35831a4742fa85c2ce9e4495b563c6cc579bf51baf326f29cf3",
+      "imza": "viKPLwg4ODEs1REgamPFvfMD1FhGGwqkd9Yu/Vx18HEJIdSbw88YfRcXVt/Sl/uaXnyTNX4vHjJbS/HpLrcQDg==",
+      "tarih": "2026-11-18T22:22:47.271Z",
+      "notlar": "Yedek ve güncelleme ekranı, otomatik günlük yedek, daha güvenli güncelleme"
     }
   ]
 }
