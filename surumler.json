@@ -1,5 +1,5 @@
 {
-  "son": "0.5.0",
+  "son": "0.6.0",
   "paketler": [
     {
       "onceki": "0.1.0",
@@ -36,6 +36,15 @@
       "imza": "nI6vPzpUjt1He2+UFW0o02bgiBi5hurPNALc5RKlainxOHGPzYwzXY/m6GKXAGqSAjAWceI1uhHGhHdXrYucDQ==",
       "tarih": "2026-11-18T22:31:14.284Z",
       "notlar": "Şirket logosu, belgelerin tamamını indirme, yedeklemede düzeltmeler"
+    },
+    {
+      "onceki": "0.5.0",
+      "sonraki": "0.6.0",
+      "dosya": "paketler/ciks-0.5.0-0.6.0.json.gz",
+      "sha256": "20b6b5360412e175b021a4c09c3f25b7a030926f2cfd06c3e43f459aa0f67190",
+      "imza": "Xi4V42XyNEbLU8MLM1/o6YeE6ItP5Cs/rtYrg+JsEWjh79xLynNQcs8JGpkbee5Op0LUwZSMbi6NaUHG6aDvDQ==",
+      "tarih": "2026-11-18T22:40:27.928Z",
+      "notlar": "Hesabım ekranı (parola, oturumlar), kullanıcı düzenleme, yönetici hesabı koruması"
     }
   ]
 }
