@@ -1,5 +1,5 @@
 {
-  "son": "0.7.0",
+  "son": "0.8.0",
   "paketler": [
     {
       "onceki": "0.1.0",
@@ -54,6 +54,15 @@
       "imza": "QZK3CNk02aBNk9DG+qcUTncdlV/8th2xopl5B4Ko4YzBgdRNYBq47Cy7yx4tvZNBXmtHOdwm/ACwzG1yHY4dDg==",
       "tarih": "2026-11-18T22:46:37.772Z",
       "notlar": "Listeleri Excel'e aktarma"
+    },
+    {
+      "onceki": "0.7.0",
+      "sonraki": "0.8.0",
+      "dosya": "paketler/ciks-0.7.0-0.8.0.json.gz",
+      "sha256": "e3e0d419ab3289115dc0fc646d72f779758ad636390481c440c9cec8fef86c80",
+      "imza": "SUygqwScub3dyC7zgSxY1HGIh6AMpWgKGv/AXdOudwKpOXo3zct63sk9YPUnQiCpS/BU4PBdqeoK/4UKRv5fBA==",
+      "tarih": "2026-11-18T22:52:38.966Z",
+      "notlar": "Aylık devam çizelgesi (puantaj): yazdırma ve Excel"
     }
   ]
 }
