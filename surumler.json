@@ -1,5 +1,5 @@
 {
-  "son": "0.6.0",
+  "son": "0.7.0",
   "paketler": [
     {
       "onceki": "0.1.0",
@@ -45,6 +45,15 @@
       "imza": "Xi4V42XyNEbLU8MLM1/o6YeE6ItP5Cs/rtYrg+JsEWjh79xLynNQcs8JGpkbee5Op0LUwZSMbi6NaUHG6aDvDQ==",
       "tarih": "2026-11-18T22:40:27.928Z",
       "notlar": "Hesabım ekranı (parola, oturumlar), kullanıcı düzenleme, yönetici hesabı koruması"
+    },
+    {
+      "onceki": "0.6.0",
+      "sonraki": "0.7.0",
+      "dosya": "paketler/ciks-0.6.0-0.7.0.json.gz",
+      "sha256": "982fb1a024ce062ac536d9db39fe9d46ebc45da8599e2bce18977428416e07a5",
+      "imza": "QZK3CNk02aBNk9DG+qcUTncdlV/8th2xopl5B4Ko4YzBgdRNYBq47Cy7yx4tvZNBXmtHOdwm/ACwzG1yHY4dDg==",
+      "tarih": "2026-11-18T22:46:37.772Z",
+      "notlar": "Listeleri Excel'e aktarma"
     }
   ]
 }
