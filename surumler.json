@@ -1,5 +1,5 @@
 {
-  "son": "0.14.1",
+  "son": "0.14.2",
   "paketler": [
     {
       "onceki": "0.1.0",
@@ -130,6 +130,15 @@
       "imza": "LIyQTr+P18kI53dqCGVFfyB9BqEtqqcCxO85o6FB3VnjQtKHdHS3szMl2pSW40bq2Fo/z930l6qrIxrOppB1AA==",
       "tarih": "2026-11-19T10:30:20.926Z",
       "notlar": "Belge kartları boşluksuz dizilir; öğrenci belgesi yalnızca öğrenci personelde görünür"
+    },
+    {
+      "onceki": "0.14.1",
+      "sonraki": "0.14.2",
+      "dosya": "paketler/ciks-0.14.1-0.14.2.json.gz",
+      "sha256": "bdb99b65cd2756f5d0cfff62e5d4897513a8f93d9fb748a49d8be9e15e482a68",
+      "imza": "8JXLeapTpO8lrscpJwyHJ7VT3FdVB2Wr+W7CVEJy47tlD1sn0q9LF1pDNflHlFnhFE3b1PL5J+LNVw4qoGzxAQ==",
+      "tarih": "2026-11-19T10:50:06.998Z",
+      "notlar": "KKTC uyruklu personele çalışma izni gerekmez: belge kartı, süre etiketi, liste, ana sayfa ve uyarılardan çıkarıldı"
     }
   ]
 }
