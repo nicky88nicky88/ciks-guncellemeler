@@ -1,5 +1,5 @@
 {
-  "son": "0.12.0",
+  "son": "0.13.0",
   "paketler": [
     {
       "onceki": "0.1.0",
@@ -96,6 +96,14 @@
       "sha256": "0aea3c8858dd9b18bd6dd5a6f6b0621a039855719602116f75651ebbd7a3d6d6",
       "imza": "vrkRtsO4uJO5dlgQEeUvmZjgOZurEdhdieGd9HmX7duvXS8dsmUBhOYgTIxQaLib1akz5isAWUOCHoIrqNHFCA==",
       "tarih": "2026-11-18T23:26:25.778Z"
+    },
+    {
+      "onceki": "0.12.0",
+      "sonraki": "0.13.0",
+      "dosya": "paketler/ciks-0.12.0-0.13.0.json.gz",
+      "sha256": "61b7c95e1951c3724bafb4ae6fd607e27d190faf68e303c4768fb00e3fe63b0a",
+      "imza": "dFL9Dz2x6OdLFeqnpT1/4KO+F/oL7Rb1/389461sa19q8wMh5PLLa8AsjzQAWH7an86+QpJoNWvC2mdq301vCw==",
+      "tarih": "2026-11-19T06:39:31.702Z"
     }
   ]
 }
