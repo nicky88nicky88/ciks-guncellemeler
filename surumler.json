@@ -1,5 +1,5 @@
 {
-  "son": "0.14.0",
+  "son": "0.14.1",
   "paketler": [
     {
       "onceki": "0.1.0",
@@ -121,6 +121,15 @@
       "imza": "3DxWw9dTs00vHS7Ky/aOGcIXrEXjq89y2HZfyu1fmKHMYN6cQzt7sQzRFmmXybpEKGaXjqnkltGjUHTocGmUBQ==",
       "tarih": "2026-11-19T09:32:59.705Z",
       "notlar": "Kullanıcılar ekranından bir kullanıcının açık oturumlarını cihaz cihaz görme ve kapatma"
+    },
+    {
+      "onceki": "0.14.0",
+      "sonraki": "0.14.1",
+      "dosya": "paketler/ciks-0.14.0-0.14.1.json.gz",
+      "sha256": "8efa9cb197c6d864c979ffa4929b10d2e7cddafc954acc092058b0e61d36d06a",
+      "imza": "LIyQTr+P18kI53dqCGVFfyB9BqEtqqcCxO85o6FB3VnjQtKHdHS3szMl2pSW40bq2Fo/z930l6qrIxrOppB1AA==",
+      "tarih": "2026-11-19T10:30:20.926Z",
+      "notlar": "Belge kartları boşluksuz dizilir; öğrenci belgesi yalnızca öğrenci personelde görünür"
     }
   ]
 }
